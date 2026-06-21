@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Lista de Tarefas",
+    "slug": "todo-list-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#6C63FF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6C63FF"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
