@@ -1,4 +1,4 @@
-# Lista de Tarefas (To-Do List) — React Native + Node.js + MongoDB Atlas
+# Lista de Tarefas (To-Do List) - React Native + Node.js + MongoDB Atlas
 
 Projeto da Avaliação Formadora (Competência 4) — ADS Mobile, UNISUAM.
 
